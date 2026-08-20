@@ -6,7 +6,7 @@ I'm a Software Engineer.
 <!-- About Me -->
 ## 🌟 About Me
 - 💻 Passionate about coding, exploring new technologies, and building cool stuff.
-- 🎓 Currently working in Zepto.
+- 🎓 Currently working in Rippling.
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
